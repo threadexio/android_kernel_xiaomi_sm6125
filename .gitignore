@@ -134,3 +134,8 @@ Android.bp
 #Ignore build directory
 #
 /out
+
+#
+#Ignore toolchain link
+#
+/toolchain
